@@ -10,3 +10,49 @@
     background-color: #F6F6F6;
     border: 2px solid #BDBDBD;
 }
+
+/* seletores
+1) classe (.)
+2) Id (#)
+3) p, h1
+*/
+
+#primeiro-id{
+    border: 3px solid aqua;  
+    background-image: url('./assets/icon-no-bg.png');
+    background-repeat: no-repeat;
+}
+
+#icone_imagem{
+    border: 10px solid aqua;  
+    background-image: url('./assets/icon-no-bg.png');
+    background-repeat: no-repeat;
+}
+
+
+div{
+    border: 10px solid #0000;
+}
+
+.primeira-classe{
+    background-color: #ccc;
+    font-size: 15px;
+    font-weight: 300;     
+}
+
+
+.input-text2 {
+    background-color: #F6F6F6;
+    border: 2px solid #BDBDBD;
+}
+
+.button-destaque{
+    background-color: aqua;
+    border: 2px solid #BDBDBD;
+}
+
+.conteudo{
+    border: 10px solid  #456;
+    background-color: #ccc;
+    color: red;
+}
